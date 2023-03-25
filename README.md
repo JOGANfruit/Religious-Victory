@@ -1,1 +1,1 @@
-# Religious-Victory
+# Religious Victory for Unciv G&K.
